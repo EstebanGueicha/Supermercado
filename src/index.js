@@ -8,13 +8,13 @@ import firebase from 'firebase/firebase';
 
 //Conexion Con Firebase
 firebase.initializeApp({
-  apiKey: "AIzaSyAxLq2cg754JRGm0vUwqggydPgUh7XSAxE",
-  authDomain: "superuadefour.firebaseapp.com",
-  databaseURL: "https://superuadefour.firebaseio.com",
-  projectId: "superuadefour",
+  apiKey: ***************,
+  authDomain: ***************,
+  databaseURL: ***************,
+  projectId: ***************,
   storageBucket: "",
-  messagingSenderId: "266913830233",
-  appId: "1:266913830233:web:f5771a72c68b528a"
+  messagingSenderId: ***************",
+  appId: ***************a"
 });
 let db = firebase.firestore();
 
